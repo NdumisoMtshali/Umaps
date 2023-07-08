@@ -58,7 +58,7 @@ import com.google.android.gms.tasks.Task;
 
 import java.util.ArrayList;
 
-import umaps.com.finalyearproject.models.PlaceInfo;
+
 
 /**
  * Created by User on 10/2/2017.
@@ -639,9 +639,7 @@ public class MapActivity extends AppCompatActivity implements OnMapReadyCallback
             }
         }
     };
-    private umaps.com.finalyearproject.PlaceAutocompleteAdapter mPlaceAutocompleteAdapter;
     private GoogleApiClient mGoogleApiClient;
-    private PlaceInfo mPlace;
     private Marker mMarker;
     //Newly added
     private GoogleMap mGoogleMap;

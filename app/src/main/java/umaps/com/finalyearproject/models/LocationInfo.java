@@ -8,7 +8,7 @@ import com.google.android.gms.maps.model.LatLng;
  * Created by User on 10/2/2017.
  */
 
-public class PlaceInfo {
+public class LocationInfo {
 
     private String name;
     private String address;
@@ -19,7 +19,7 @@ public class PlaceInfo {
     private float rating;
     private String attributions;
 
-    public PlaceInfo(String name, String address, String phoneNumber, String id, Uri websiteUri,
+    public LocationInfo(String name, String address, String phoneNumber, String id, Uri websiteUri,
                      LatLng latlng, float rating, String attributions) {
         this.name = name;
         this.address = address;
@@ -31,7 +31,7 @@ public class PlaceInfo {
         this.attributions = attributions;
     }
 
-    public PlaceInfo() {
+    public LocationInfo() {
 
     }
 
@@ -101,7 +101,7 @@ public class PlaceInfo {
 
     @Override
     public String toString() {
-        return "PlaceInfo{" +
+        return "LocationInfo{" +
                 "name='" + name + '\'' +
                 ", address='" + address + '\'' +
                 ", phoneNumber='" + phoneNumber + '\'' +

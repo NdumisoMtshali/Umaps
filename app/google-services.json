@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "585922042778",
+    "firebase_url": "https://umapsdatabase-default-rtdb.firebaseio.com",
+    "project_id": "umapsdatabase",
+    "storage_bucket": "umapsdatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585922042778:android:16708842e6c4a2eef7f823",
+        "android_client_info": {
+          "package_name": "com.example.umaps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585922042778-j7rmebvpud3gh3jv1duolqksk1j2jnm4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_mz9jMem2GE3J7FZFNhCdlzBShWElwwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585922042778-j7rmebvpud3gh3jv1duolqksk1j2jnm4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585922042778:android:e0b638ca624bdb73f7f823",
+        "android_client_info": {
+          "package_name": "umaps.com.finalyearproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585922042778-j7rmebvpud3gh3jv1duolqksk1j2jnm4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_mz9jMem2GE3J7FZFNhCdlzBShWElwwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585922042778-j7rmebvpud3gh3jv1duolqksk1j2jnm4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
